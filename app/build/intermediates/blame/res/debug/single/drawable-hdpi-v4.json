@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_small_pressed.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_logo.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\submit.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\submit.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_now.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\page_now.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slide1.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\slide1.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location_marker.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\location_marker.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_nav_drag_down_pressed.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_transit_off.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slide3.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\slide3.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\text_search_pressed.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbackbtn.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\searchbackbtn.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\divider.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\start_uri.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\start_uri.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_walk_on.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_nav_drag_down_normal.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_transit_focused.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchico.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\searchico.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_poi_search_normal.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_small.xml",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_default_small.xml"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\text_search_default.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\text_search_default.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_nav_drag_down.xml",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\myedit.jpg",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\myedit.jpg"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_imgs.jpg",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\default_imgs.jpg"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contentback.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\contentback.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_default.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\main_default.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\page.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slide2.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\slide2.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_background.jpg",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\bottom_background.jpg"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_transit.xml",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_transit.xml"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\collectcontent.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\collectcontent.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\losing.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\losing.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_small_normal_disable.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear.jpg",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\clear.jpg"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_transit_on.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_walk_off.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_driving_on.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\righttopbutton.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\righttopbutton.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\text_search.xml",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\text_search.xml"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_plate_global.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\search_plate_global.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiyan.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\tiyan.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shoucangjia.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\shoucangjia.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_walk_focused.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_walk_focused.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\point.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\text_search_selected.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\text_search_selected.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_driving.xml",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_driving.xml"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_driving_off.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gosearch.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\gosearch.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contentshare.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\contentshare.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_walk.xml",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_walk.xml"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_default_small_normal.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blank.jpg",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\blank.jpg"
+    },
+    {
+        "merged": "F:\\ClassProDemo\\CaBaiKe_L\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mode_driving_focused.9.png",
+        "source": "F:\\ClassProDemo\\CaBaiKe_L\\app\\src\\main\\res\\drawable-hdpi\\mode_driving_focused.9.png"
+    }
+]

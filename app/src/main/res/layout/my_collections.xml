@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp" 
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_centerInParent="true"
+             >
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:onClick="topOnClick"
+                android:src="@drawable/back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="95dp"
+                android:gravity="center"
+                android:text="@string/my_collection"
+                android:textColor="#2E8B57"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/tv_null"
+                android:layout_width="15dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true" />
+
+            <ImageView
+                android:id="@+id/iv_clear"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_toLeftOf="@id/tv_null"
+                android:onClick="topOnClick"
+                android:src="@drawable/clear" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#2E8B57" />
+
+    <ListView
+        android:id="@+id/lv_collection"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#dddfff" />
+
+</LinearLayout>
